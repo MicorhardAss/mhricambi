@@ -570,5 +570,6 @@ MCV603-P1, Cavo Seriale LUNGO per TG02,CABLAGGI,10,
 MCV604-P2, Cavo Alimentazione LUNGO per TG02,CABLAGGI,10,
 DP40-810-1, Cornice lat. SX e DX in alluminio per porta DP40,MECCANICA,60
 DP40-812-1, Cornice sup. e inf. in alluminio per porta DP40,MECCANICA,150
-
+MCV967, Cavo ponte tra due schede MH576,CABLAGGI,4
+MCV968, Cavo di collegamento tra scheda motori e MH576,CABLAGGI,4
 
