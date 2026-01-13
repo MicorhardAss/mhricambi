@@ -444,7 +444,7 @@ PRESA-POLYSNAP-1,Presa Polysnap con interruttore ON/OFF Nero,ELETTRONICA,
 MCV1307,Cavo Seriale/RS232 per stampante Sanei su DP18/40/60,CABLAGGI,
 FR-004-R290,Gruppo frigo R290 x DD60TOUCH,PERIFERICHE,750,
 FR-003-R290,Gruppo frigo R290 x DP40,PERIFERICHE,750,
-FR-006-R290,Gruppo frigo R290 x DP60,PERIFERICHE,750,
+DP60-EMT6144-02,GRUPPO FRIGO COMPLETO di TERMOSTATO per DP60 in R290,PERIFERICHE,750,
 GDP40-FRIGO-R,Gruppo frigo DP40 con R134 completo di termostato MTH,PERIFERICHE,850
 GDP60-FRIGO-R,Gruppo frigo DP60 con R134 completo di termostato MTH,PERIFERICHE,850
 MH591,Scheda tastiera con LED illuminazione DP8 new,ELETTRONICA,10,
@@ -576,6 +576,7 @@ MH4-80.1245.00.002,Gruppo porta lato cella completo per DP24,MECCANICA,2500
 MCV1197, Cavo di alimentazione +12V illuminatori led MH522 > MH527,CABLAGGI,0
 STAMP-KIT-NIP01, Kit stampante Nippon completa di mascherina, cablaggi e staffe di fissaggio, PERIFERICHE, 350
 BATT-12V-5A, Batteria 12V 5Ah al Pb AGM VRLA Energy Safe C20 per DD60 TOUCH E DD90, PERIFERICHE, 25
+
 
 
 
